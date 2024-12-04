@@ -15,6 +15,11 @@
   ],
   "author": "rohmanahmad",
   "license": "ISC",
+  "engineStrict": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rohmanahmad/message-broker-nats.git"
+  },
   "dependencies": {
     "nats": "^2.28.2",
     "winston": "^3.17.0"
