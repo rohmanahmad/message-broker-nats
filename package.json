@@ -1,0 +1,22 @@
+{
+  "name": "message-broker-nats",
+  "version": "1.0.0",
+  "description": "message broker using nats",
+  "main": "src/index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nats",
+    "message-broker"
+  ],
+  "author": "rohmanahmad",
+  "license": "ISC",
+  "dependencies": {
+    "nats": "^2.28.2",
+    "winston": "^3.17.0"
+  }
+}
