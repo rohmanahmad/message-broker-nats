@@ -13,7 +13,10 @@
     "nats",
     "message-broker"
   ],
-  "author": "rohmanahmad",
+  "engines": {
+    "node": ">= 20.0"
+  },
+  "author": "rohmanahmad <rohmanwebid@gmail.com>",
   "license": "ISC",
   "engineStrict": true,
   "repository": {
